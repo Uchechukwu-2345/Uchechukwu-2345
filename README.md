@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi I'm **Uchechukwu**, a passionate **Data Analyst** dedicated to building **sustainable, data-driven solutions** for business growth. I specialize in **Data Science, Machine Learning, and Econometric Analysis**, with a keen interest in applying machine learning techniques to economics and policy research.
+Hi I'm **Uche**, a passionate **Data Analyst** dedicated to building **sustainable, data-driven solutions**. I specialize in **Data Science, Machine Learning, and Econometric Analysis**, with a keen interest in applying machine learning techniques to economics and policy research.
 
 ---
 
