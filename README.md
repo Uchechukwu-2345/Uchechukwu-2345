@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤝 Open to collaborating on: Data Science projects, Econometric analysis, Data Analytics, and Research initiatives.
 - 💬 Ask me about my experiences in data and research
-- 📧 Let’s connect: [Your Email Here]
+- 📧 Let’s connect @My Email [uchechukwue200@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ let's have Fun fact with data
 -->
