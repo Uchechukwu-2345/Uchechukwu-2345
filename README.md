@@ -1,47 +1,42 @@
 ## 👋 About Me
 
-Hey there! I'm **Uchechukwu Eze**, a passionate **Data Analyst** dedicated to building **sustainable, data-driven solutions** that power business growth. I thrive on leveraging **Data Science, Machine Learning, and Econometric Analysis** to uncover actionable insights, especially in the field of **economics**.
+Hi I'm **Uchechukwu**, a passionate **Data Analyst** dedicated to building **sustainable, data-driven solutions** for business growth. I specialize in **Data Science, Machine Learning, and Econometric Analysis**, with a keen interest in applying machine learning techniques to economics and policy research.
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=uchechukwu-2345&label=Profile%20views&color=0e75b6&style=flat" alt="uchechukwu-2345" /> 
-</p>
+---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=uchechukwu-2345&theme=onestar&row=1&margin-w=10" alt="uchechukwu-2345" />
-  </a> 
+## 🌐 Connect with Me:
+
+<p align="left">
+<a href="https://github.com/uchechukwu-2345" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="35" width="35" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/uchechukwu-eze-181622217" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35" width="35" />
+</a>&nbsp;
+<a href="https://twitter.com/uchechukwu84750" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" height="35" width="35" />
+</a>&nbsp;
+<a href="https://kaggle.com/uchechukwu2" target="blank">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3628836-3029950.png" alt="Kaggle" height="35" width="35" />
+</a>&nbsp;
+<a href="https://medium.com/@uchechukwue200" target="blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="35" width="35" />
+</a>
 </p>
 
 ---
 
 ### 🚀 What I'm Up To:
-- 🔍 Currently working on a **Machine Learning House Price Prediction Project**
-- 🌱 Upskilling in **Advanced Python, SQL, and Machine Learning**
-- 🤝 Open for collaborations on **Data Science, Econometric Analysis, Research & Analytics Projects**
-- 📧 Reach me at **uchechukwue200@gmail.com**
-- ⚡ Fun Fact: **Data tells better stories than people sometimes 😉**
+- 🔍 Working on a **Machine Learning House Price Prediction Project**
+- 🌱 Currently mastering **Advanced Python, SQL, and Machine Learning**
+- 🤝 Open for collaborations on **Data Science, Econometrics, and Research Projects**
+- 📧 Reach me via **uchechukwue200@gmail.com**
+- ⚡ Fun Fact: **Data speaks louder than words 📊**
 
 ---
 
-### 🌐 Connect With Me:
-<p align="left">
-<a href="https://twitter.com/uchechukwu84750" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/uchechukwu-eze-181622217" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/uchechukwu2" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://medium.com/@uchechukwue200" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-</a>
-</p>
 
----
-
-### 🛠️ Tools & Technologies I Use:
+### 🛠️ Tools:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
